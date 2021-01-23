@@ -1,0 +1,74 @@
+﻿body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+aside {
+    background: #112437;
+}
+.aside {
+    padding: 40px;
+    width: 400px;
+    margin: 0;
+    color: #ECEEF1;
+}
+.contact {
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgba(255, 255, 255, 0.502);
+    line-height: 1.714;
+    width: 166px;
+    height: 39px;
+}
+.asideLi {
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: #FF6B00;
+}
+.asideTitle {
+    font-size: 22px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.flex{
+    display:flex;
+    flex-direction:row;
+}
+.left{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.contentText {
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgb(89, 89, 89);
+}
+.contentH3 {
+    font-size: 22px;
+    font-family: "Montserrat";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.contentH4 {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.orangeColorH4 {
+    color: #FF6B00;
+    font-size: 16px;
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+.dataFont {
+    font-size: 12px;
+    font-family: "Montserrat";
+    color: rgb(168, 168, 168);
+}
+.img{
+    width:400px;
+}
+.sidebarTextLi {
+    color: rgb(255, 255, 255);
+}
